@@ -22,7 +22,7 @@ function HW4() {
     return (
         <div>
             <hr/>
-            homeworks 4
+            <h3>Homeworks 4</h3>
 
             <div className={s.column}>
                 <SuperInputText
@@ -40,18 +40,18 @@ function HW4() {
                 {/*----------------------------------------------------*/}
 
                 <SuperButton>
-                    default
+                    Default
                 </SuperButton>
 
                 <SuperButton
                     red // пропсу с булевым значением не обязательно указывать true
                     onClick={showAlert}
                 >
-                    delete {/*// название кнопки попадёт в children*/}
+                    Delete {/*// название кнопки попадёт в children*/}
                 </SuperButton>
 
                 <SuperButton disabled>
-                    disabled
+                    Disabled
                 </SuperButton>
 
                 {/*----------------------------------------------------*/}
@@ -60,7 +60,7 @@ function HW4() {
                     checked={checked}
                     onChangeChecked={setChecked}
                 >
-                    some text {/*// этот текст попадёт в children*/}
+                    Hi there {/*// этот текст попадёт в children*/}
                 </SuperCheckbox>
 
                 {/*// onChange тоже должен работать*/}
