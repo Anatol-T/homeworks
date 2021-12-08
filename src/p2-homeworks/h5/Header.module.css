@@ -1,0 +1,21 @@
+.navigation {
+    position: relative;
+    font-size: 1.3rem;
+    height: 25px;;
+}
+
+.navMenu {
+    background-color: rgba(210, 105, 30, 0.5);
+    border-radius: 0 18px 18px 0;
+    position: absolute;
+    left: -240px;
+    transition-duration: 1s;
+}
+
+.navMenu:hover {
+    left: 0;
+}
+
+.selected {
+    color: #2f4f4f;
+}
