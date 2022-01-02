@@ -1,0 +1,14 @@
+.stlName  {
+    display: inline-block;
+    width: 200px;
+    color: #383838;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.stlAge  {
+    display: inline-block;
+    width: 50px;
+    text-align: right;
+    font-weight: 500;
+    color: teal;
+}
