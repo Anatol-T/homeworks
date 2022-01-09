@@ -20,11 +20,6 @@ const initialPeople = [
 
 function HW8() {
 
-  const stlAge = {
-    display: "block",
-    width: "50px",
-    textAlign: "end"
-  }
   const [people, setPeople] = useState<Array<UserType>>(initialPeople) // need to fix any
 
   // need to fix any

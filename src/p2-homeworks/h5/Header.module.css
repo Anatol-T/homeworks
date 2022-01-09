@@ -1,15 +1,19 @@
 .navigation {
     /*position: relative;*/
-    font-size: 1.3rem;
+    padding: 0;
+    margin: 0;
+    font-size: 26px;
     height: 25px;;
 }
 
 .navMenu {
+    padding: 0;
+    margin: 0;
     background-color: rgba(210, 105, 30, 0.5);
     border-radius: 0 18px 18px 0;
     /*position: absolute;*/
     /*left: -300px;*/
-    width: 340px;
+    width: 335px;
     transform: translate(-300px);
     transition-duration: 1s;
 }
