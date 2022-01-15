@@ -1,7 +1,6 @@
 
 type LoadingType = typeof initState
 const initState = {
-    timerId: 0,
     loading: false
 }
 
@@ -13,9 +12,9 @@ export const loadingReducer = (state:LoadingType = initState, action: LoadingAct
         default: return state
     }
 }
-type LoadingActionsType = Loading
+type LoadingActionsType = LoadingACType
 
-type Loading = ReturnType<typeof loadingAC>
+type LoadingACType = ReturnType<typeof loadingAC>
 
 export const loadingAC = () => {
     return {
