@@ -14,10 +14,10 @@
     color: aqua;
 }
 
-.some {
-    background: lightgreen;
+.default {
+    background: palegoldenrod;
 }
 
-.some-text {
-    color: darkslateblue;
+.default-text {
+    color: black;
 }
