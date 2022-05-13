@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/homeworks/static/css/main.2145a26b.chunk.css",
-    "main.js": "/homeworks/static/js/main.13b7f052.chunk.js",
-    "main.js.map": "/homeworks/static/js/main.13b7f052.chunk.js.map",
+    "main.js": "/homeworks/static/js/main.ab5d6800.chunk.js",
+    "main.js.map": "/homeworks/static/js/main.ab5d6800.chunk.js.map",
     "runtime-main.js": "/homeworks/static/js/runtime-main.bf7329d5.js",
     "runtime-main.js.map": "/homeworks/static/js/runtime-main.bf7329d5.js.map",
-    "static/js/2.54ff40ca.chunk.js": "/homeworks/static/js/2.54ff40ca.chunk.js",
-    "static/js/2.54ff40ca.chunk.js.map": "/homeworks/static/js/2.54ff40ca.chunk.js.map",
+    "static/js/2.f7b5230b.chunk.js": "/homeworks/static/js/2.f7b5230b.chunk.js",
+    "static/js/2.f7b5230b.chunk.js.map": "/homeworks/static/js/2.f7b5230b.chunk.js.map",
     "index.html": "/homeworks/index.html",
     "static/css/main.2145a26b.chunk.css.map": "/homeworks/static/css/main.2145a26b.chunk.css.map",
-    "static/js/2.54ff40ca.chunk.js.LICENSE.txt": "/homeworks/static/js/2.54ff40ca.chunk.js.LICENSE.txt",
+    "static/js/2.f7b5230b.chunk.js.LICENSE.txt": "/homeworks/static/js/2.f7b5230b.chunk.js.LICENSE.txt",
+    "static/media/Anatolii TARANENKO CV.3f030ce9.pdf": "/homeworks/static/media/Anatolii TARANENKO CV.3f030ce9.pdf",
     "static/media/DoubleRingSpinner.e520e9b7.svg": "/homeworks/static/media/DoubleRingSpinner.e520e9b7.svg",
     "static/media/err.eddf4753.png": "/homeworks/static/media/err.eddf4753.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bf7329d5.js",
-    "static/js/2.54ff40ca.chunk.js",
+    "static/js/2.f7b5230b.chunk.js",
     "static/css/main.2145a26b.chunk.css",
-    "static/js/main.13b7f052.chunk.js"
+    "static/js/main.ab5d6800.chunk.js"
   ]
 }
